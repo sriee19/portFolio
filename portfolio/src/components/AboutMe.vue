@@ -3,14 +3,14 @@
   
 <div class="container">
 <div class="up">
-<div class="me">Beloved Me
-<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde minus aspernatur tempore quo cumque dolor porro soluta, nesciunt ipsum! Incidunt iusto provident doloribus saepe magni. Distinctio mollitia possimus ipsam soluta?</p>
+<div class="me black--text">Beloved Me
+<p class="white--text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde minus aspernatur tempore quo cumque dolor porro soluta, nesciunt ipsum! Incidunt iusto provident doloribus saepe magni. Distinctio mollitia possimus ipsam soluta?</p>
 </div>
 </div>
 <div class="down">
-<div class="why">
+<div class="why black--text">
 why i become full-stack developer 
-<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos enim voluptates accusamus consectetur ab aut eum amet, itaque eius maiores saepe aliquam quia possimus molestiae, ad, expedita tenetur laudantium eveniet.</p>
+<p class="white--text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos enim voluptates accusamus consectetur ab aut eum amet, itaque eius maiores saepe aliquam quia possimus molestiae, ad, expedita tenetur laudantium eveniet.</p>
 </div>
 </div>
 </div>

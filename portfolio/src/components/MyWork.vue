@@ -1,21 +1,21 @@
 <template>
   <main>
-    <h2>EXPERIENCE</h2>
+    <h2 class="white--text">EXPERIENCE</h2>
     <div class="container">
       <div class="up">
         <div class="left">
-        <h3>december2021-january2022</h3>
+        <h3 class="black--text">december2021-january2022</h3>
         </div>
         <div class="right"><span>Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis repudiandae sapiente doloribus ea voluptatum quia!</span></div>
       </div>
       <div class="down">
         <div class="left1">
-        <h3>january2022-present</h3>
+        <h3 class="black--text">january2022-present</h3>
         </div>
         <div class="right1"><span>Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime nam maiores facere cumque ducimus exercitationem?</span></div>
       </div>
     </div>
-    <h2>DIPLOMES</h2>
+    <h2 class="white--text">DIPLOMES</h2>
     <div class="container">
       <div class="up">
         <div class="left">

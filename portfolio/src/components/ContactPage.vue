@@ -1,6 +1,6 @@
 <template>
   <v-footer
-    dark
+    color="grey"
     padless
   >
     <v-card
@@ -8,7 +8,7 @@
       flat
       tile
     >
-      <v-card-title class="teal">
+      <v-card-title class="grey">
         
 
         <v-spacer></v-spacer>
